@@ -1,0 +1,13 @@
+2022-06-03 13:15:13.467  INFO 10924 --- [main] earchHotelAutomaticCompletionApplication : Starting ElasticsearchHotelAutomaticCompletionApplication v0.0.1-SNAPSHOT using Java 16.0.2 on mao with PID 10924 (H:\程序\大三下期\elasticsearch_hotel实现自动补全功能\target\elasticsearch_hotel-0.0.1-SNAPSHOT.jar started by mao in H:\程序\大三下期\elasticsearch_hotel实现自动补全功能\target)
+2022-06-03 13:15:13.470 DEBUG 10924 --- [main] earchHotelAutomaticCompletionApplication : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-03 13:15:13.471  INFO 10924 --- [main] earchHotelAutomaticCompletionApplication : The following 1 profile is active: "dev"
+2022-06-03 13:15:15.004  INFO 10924 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8089 (http)
+2022-06-03 13:15:15.016  INFO 10924 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-06-03 13:15:15.016  INFO 10924 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-03 13:15:15.087  INFO 10924 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-06-03 13:15:15.088  INFO 10924 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1551 ms
+2022-06-03 13:15:15.228  INFO 10924 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-06-03 13:15:15.456  INFO 10924 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-06-03 13:15:16.599  INFO 10924 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2022-06-03 13:15:16.941  INFO 10924 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8089 (http) with context path ''
+2022-06-03 13:15:16.958  INFO 10924 --- [main] earchHotelAutomaticCompletionApplication : Started ElasticsearchHotelAutomaticCompletionApplication in 4.226 seconds (JVM running for 4.809)
